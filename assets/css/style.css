@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+    margin: 0%;
+}
+
+.center{
+    text-align: center;
+}
+
+.container{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    text-justify:auto;
+    
+
+}
+.text{
+    padding: 30px;
+    text-align: justify;
+}
+
+li{
+    padding: 15px;
+    letter-spacing: 0.1px;
+}
+
+.padding{
+    padding: 10px;
+}
+
+footer{
+    background: #525252a8;
+    color:#447;
+}
